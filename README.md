@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Roque Bernedo</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=828&q=85)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquebernedo&label=Profile%20views&color=0e75b6&style=flat" alt="roquebernedo" /> </p>
 
