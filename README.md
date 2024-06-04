@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquebernedo&label=Profile%20views&color=0e75b6&style=flat" alt="roquebernedo" /> </p>
 
-- 🔭 I’m currently working on [RecipesApp](https://reciperq.netlify.app/)
+- 🔭 I’m currently working on [Dirstore](https://ecommercerq.netlify.app/))
 
 - 🌱 I’m currently learning **React Native and TypeScript**
 
